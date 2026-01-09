@@ -1,4 +1,4 @@
-# Bank Churn Prediction Project
+# Bank Churn Modeling Project
 ## About the dataset
 This <a href="https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset/data">dataset<a> from Kaggle consists of 10,000 customer records with information on their **credit score, country, gender, age, tenure, balance, number of products with the bank, credit card status, active member status, salary, and churn status** for the purpose of churn modeling and exploration. The dataset is clean with no NA values and no duplicates present. 
 
